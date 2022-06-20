@@ -4,3 +4,7 @@
     width: 100%;
     max-height: 40rem !important;
 }
+
+.shop .shop-form-2 .checkbox-entry span {
+    font-size: 16px;
+}
